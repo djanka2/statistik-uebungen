@@ -1,3 +1,5 @@
 # Statistik Übungen
 
-Mit JupyterLite.
+Mit JupyterLite. Erreichbar unter:
+
+https://djanka2.github.io/statistik-uebungen
