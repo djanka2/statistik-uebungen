@@ -13,3 +13,4 @@ jupyterlab_miami_nights
 plotly
 pandas
 seaborn
+statsmodels
