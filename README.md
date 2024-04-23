@@ -11,7 +11,7 @@ Die Übungen müssen bis zu den folgenden Daten bearbeitet werden:
 | Name der Übung                        | Späteste Abgabe       |
 |:---                                   |:---                   |
 | [Einfuehrung Daten](https://github.com/djanka2/statistik-uebungen/blob/main/01%20-%20Einfuehrung%20Daten.ipynb)	        | 12.04.2024            |	
-| [Korrelation und Regression](https://github.com/djanka2/statistik-uebungen/blob/main/02%20-%20Korrelation%20und%20Regression.ipynb)	| 26.04.2024	        |
+| [Korrelation und Regression](https://github.com/djanka2/statistik-uebungen/blob/main/02%20-%20Korrelation%20und%20Regression.ipynb)	| 03.05.2024	        |
 | [Wahrscheinlichkeit](https://github.com/djanka2/statistik-uebungen/blob/main/03%20-%20Wahrscheinlichkeit.ipynb)	        | 17.05.2024            |
 | [Normalverteilung](https://github.com/djanka2/statistik-uebungen/blob/main/04%20-%20Normalverteilung.ipynb)           | 07.06.2024            |
 | [Stichprobenverteilung](https://github.com/djanka2/statistik-uebungen/blob/main/05%20-%20Stichprobenverteilung.ipynb)	    | 21.06.2024            |
